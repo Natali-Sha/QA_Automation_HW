@@ -87,10 +87,10 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Lesson_1" />
       <item itemvalue="Application.Lesson_2" />
       <item itemvalue="Application.Lesson_3" />
-      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
