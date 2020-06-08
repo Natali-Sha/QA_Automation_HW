@@ -6,6 +6,7 @@ import java.util.Random;
 import java.util.stream.IntStream;
 
 public class Lesson_2 {
+
     public static void main(String[] args) {
 //        LESSON 2
 
@@ -174,32 +175,6 @@ public class Lesson_2 {
                 }
             }
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
 
