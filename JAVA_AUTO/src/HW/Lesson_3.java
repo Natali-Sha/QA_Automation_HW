@@ -138,30 +138,5 @@ public class Lesson_3 {
         System.out.println("10. Write a program which prints \"Hello world\" to the console using methods transformIntToChar and printList only.\n");
 
         Lesson_3_10.run();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }

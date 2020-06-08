@@ -74,7 +74,5 @@ public class Lesson_1 {
         double b = my_array2[my_array2.length - 1];
         System.out.println("first element - " + a);
         System.out.println("last element - " + b);
-
-
     }
 }
