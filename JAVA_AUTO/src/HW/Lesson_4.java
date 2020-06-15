@@ -34,6 +34,13 @@ public class Lesson_4 {
         System.out.println("Our Boxer VS Another boxer win - " +  ourBoxer.fight(anotherBoxer));
         System.out.println("Another boxer VS Our Boxer win - " +   anotherBoxer.fight(ourBoxer));
 
+        System.out.println("------------------");
+
+//        #3
+        System.out.println("3. Create 3 different classes to demonstate the relationships \"has-a\" and \"uses-a\"." +
+                " They can be anything you want. For example: Car - Engine - Wheels")
+
+
 
 
 
