@@ -9,12 +9,6 @@ public class Calculator_Lesson_4_4 {
     String operation;
     Double result;
 
-
-    public  void  userData (){
-        System.out.println("Введите операцию (-,+, *, /): ");
-        operation = input.nextLine();
-
-    }
     public void getFirstValue() {
         System.out.println("Введите первое значение: ");
         if (input.hasNextDouble()) {
@@ -25,7 +19,6 @@ public class Calculator_Lesson_4_4 {
             this.getFirstValue();
         }
     }
-
         public void getSecondValue() {
             System.out.println("Введите второе значение: ");
             if (input.hasNextDouble()) {
@@ -36,24 +29,19 @@ public class Calculator_Lesson_4_4 {
                 this.getSecondValue();
             }
         }
+
     public void getOperation() {
         System.out.println("Введите операцию:");
-
-        operation = input.nextLine();
+       operation = input.next();
        operation = operation.trim();
         if (operation != null && !operation.isEmpty()){
-
+            this.calculate();
         }
         else {
             System.out.println("Попробуйте еще раз (-,+, *, /):");
-//            input.next();//рекурсия
+            input.next();//рекурсия
             this.getOperation();
         }
-
-
-//      System.out.println(operation instanceof String);
-//      System.out.println(operation instanceof char);
-
     }
     public void calculate (){
         if (operation.equals("+")) {
@@ -66,7 +54,7 @@ public class Calculator_Lesson_4_4 {
             this.divide();
         } else {
             System.out.println("Введите верную операцию (-,+, *, /): ");
-
+            this.getOperation();
         }
     }
 

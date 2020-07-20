@@ -66,17 +66,14 @@ public class Lesson_4 {
 
         Calculator_Lesson_4_4 calc = new Calculator_Lesson_4_4();
 
-        calc.getOperation();
+
         calc.getFirstValue();
         calc.getSecondValue();
-        calc.calculate();
+        calc.getOperation();
 
+        System.out.println("------------------");
 
-
-
-
-
-
+//        #5
 
 
 
