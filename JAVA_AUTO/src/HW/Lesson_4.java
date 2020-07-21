@@ -64,16 +64,76 @@ public class Lesson_4 {
          "Print all results to the console.");
 
 
-        Calculator_Lesson_4_4 calc = new Calculator_Lesson_4_4();
+//        Calculator_Lesson_4_4 calc = new Calculator_Lesson_4_4();
+//
+//
+//        calc.getFirstValue();
+//        calc.getSecondValue();
+//        calc.getOperation();
+//
+//        System.out.println("------------------");
+
+//        #5
+
+        Test_Lesson_4_5 one = new Test_Lesson_4_5("one");
+        System.out.println("------------------");
+        Test_Lesson_4_5 two = new Test_Lesson_4_5("two", 5);
+        System.out.println("------------------");
+        Test_Lesson_4_5 three = new Test_Lesson_4_5("three",10, 6);
+        System.out.println("------------------");
+        one.print_4_5();
+        System.out.println("------------------");
+        two.print_4_5();
+        System.out.println("------------------");
+        three.print_4_5();
+        System.out.println("------------------");
+
+  //      #6
 
 
-        calc.getFirstValue();
-        calc.getSecondValue();
-        calc.getOperation();
+        Test_Lesson_4_6 first = new Test_Lesson_4_6(1);
+        System.out.println("------------------");
+        Test_Lesson_4_6 second = new Test_Lesson_4_6(2, 5);
+        System.out.println("------------------");
+        Test_Lesson_4_6 third = new Test_Lesson_4_6(4,10, 6);
+        System.out.println("------------------");
+
+  //     #7
+
+                new Test_Lesson_4_7();
+                new Test_Lesson_4_7();
 
         System.out.println("------------------");
 
-//        #5
+  //     #8
+
+        System.out.println("------------------");
+
+  //     #9
+
+        Recursive_Lesson_4_9 rec = new Recursive_Lesson_4_9();
+        rec.p();
+
+        System.out.println("------------------");
+
+  //     #10
+        OverLoading_Lesson_4_10 testObj = new OverLoading_Lesson_4_10 ();
+        testObj.over(20);
+        testObj.over("test");
+        testObj.over("test1", "test2");
+        testObj.over(20,20);
+
+        System.out.println("------------------");
+
+
+
+
+
+
+
+
+
+
 
 
 
