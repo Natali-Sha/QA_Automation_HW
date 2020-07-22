@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fef25b7-f582-479b-a879-fefa47f66a78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Helpers/OverLoading_Lesson_4_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Helpers/Recursive_Lesson_4_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Helpers/Test_Lesson_4_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Helpers/Test_Lesson_4_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Helpers/Test_Lesson_4_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstPack_Lesson_5_1/FirstClass_Lesson_5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW/Lesson_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecondPack_Lesson_5_1/FirstClass_Lesson_5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirdPack_Lesson_5_3/TestClass1_Lesson_5_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirdPack_Lesson_5_3/TestClass2_Lesson_5_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/HW/Lesson_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_AUTO/HW/Lesson_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Helpers/Calculator_Lesson_4_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_AUTO/Helpers/Calculator_Lesson_4_4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HW/Lesson_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/Lesson_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Lesson_4">
+  <component name="RunManager" selected="Application.Lesson_5">
     <configuration name="Lesson_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW.Lesson_1" />
       <module name="JAVA_AUTO" />
@@ -97,30 +96,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+    <configuration name="Lesson_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.Lesson_5" />
       <module name="JAVA_AUTO" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Lesson_1" />
       <item itemvalue="Application.Lesson_2" />
       <item itemvalue="Application.Lesson_3" />
       <item itemvalue="Application.Lesson_4" />
+      <item itemvalue="Application.Lesson_5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson_5" />
         <item itemvalue="Application.Lesson_4" />
         <item itemvalue="Application.Lesson_3" />
         <item itemvalue="Application.Lesson_2" />
         <item itemvalue="Application.Lesson_1" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -167,22 +169,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="417" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1595342509270" />
-    <state width="1493" height="192" key="GridCell.Tab.0.bottom" timestamp="1595356020059">
+    <state width="1493" height="43" key="GridCell.Tab.0.bottom" timestamp="1595442584495">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595356020059" />
-    <state width="1493" height="192" key="GridCell.Tab.0.center" timestamp="1595356020059">
+    <state width="1493" height="43" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595442584495" />
+    <state width="1493" height="43" key="GridCell.Tab.0.center" timestamp="1595442584495">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="192" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595356020059" />
-    <state width="1493" height="192" key="GridCell.Tab.0.left" timestamp="1595356020059">
+    <state width="1493" height="43" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595442584495" />
+    <state width="1493" height="43" key="GridCell.Tab.0.left" timestamp="1595442584495">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="192" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595356020059" />
-    <state width="1493" height="192" key="GridCell.Tab.0.right" timestamp="1595356020059">
+    <state width="1493" height="43" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595442584495" />
+    <state width="1493" height="43" key="GridCell.Tab.0.right" timestamp="1595442584495">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="192" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595356020059" />
+    <state width="1493" height="43" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595442584495" />
     <state width="1493" height="2" key="GridCell.Tab.1.bottom" timestamp="1592653497899">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
