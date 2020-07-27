@@ -1,11 +1,13 @@
 package HW;
+import Helpers.*;
 
 import PrivateAccess_Lesson_5_5.PrivateAccess_Lesson_5_5;
-import Protected2_Lessson_5_6.Protected_Class_5_6;
+//import Protected2_Lessson_5_6.Protected_Class_5_6;
 import Protected_Lesson_5_6.Protected_Lesson_5_6;
 import PublicAccess_Lesson_5_4.PublicAccess_Lesson_5_4;
 import PublicAccess_Lesson_5_4.PublicAccess2_Lesson_5_4;
 import ThirdPack_Lesson_5_3.*;
+
 
 
 
@@ -62,18 +64,67 @@ public class Lesson_5 {
 
 
 //        #8
+        Getter_Lesson_5_8 iTest = new Getter_Lesson_5_8();
+        String a = iTest.getValue_1();
+        System.out.println("Getter - " + a);
+        int b = iTest.getValue_2();
+        System.out.println("Getter - " + b);
+        int c = iTest.getValue_3();
+        System.out.println("Getter - " + c);
+        int d = iTest.getValue_4();
+        System.out.println("Getter - " + d);
+        int e = iTest.getValue_5();
+        System.out.println("Getter - " + e);
+        iTest.setValue("test2", 4, 6,7,8);
+        System.out.println("Setter - " + iTest.getValue_1());
+        System.out.println("Setter - " + iTest.getValue_2());
+        System.out.println("Setter - " + iTest.getValue_3());
+        System.out.println("Setter - " + iTest.getValue_4());
+        System.out.println("Setter - " + iTest.getValue_5());
+
+        System.out.println("------------------");
+
+//        #9
+
+//        Static variables or fields belong to the class, and not to any object of the class.
+//        A static variable is initialized when the class is loaded at runtime.
+//        Non-static fields are instance fields of an object. They can only be accessed or invoked through an object reference.
+//        The value of static variable remains constant throughout the class.
+//        The value of Non-static variables changes as the objects has their own copy of these variables.
 
 
+            System.out.println(Static_Lesson_5_9.st1); // static variables are accessed directly by giving the class reference in other class
+            System.out.println(Static_Lesson_5_9.st2);
+            Static_Lesson_5_9.Static_Lesson_5_9();
 
+            System.out.println("------------------");
 
+            NonStatic_Lesson_5_9 nonStMain = new NonStatic_Lesson_5_9();//non-static variables are accessed with the help of class object
+            System.out.println(nonStMain.nonSt1);
+            System.out.println(nonStMain.nonSt2);
+            nonStMain.NonStatic_Lesson_5_9();
 
+//        #10
 
+        System.out.println(3 + Constant_Lesson_5_10.con); // it is possible to access the constant from another class and package
+        System.out.println("------------------");
 
+//        #11
 
+        Change_Lesson_5_11 valueStatic = new Change_Lesson_5_11();
+        Change_Lesson_5_11.setStatic(5);
+        valueStatic.setNonStatic(45);
 
+        System.out.println("Static value - " + Change_Lesson_5_11.getStatic());
+        System.out.println("Non-static value - " + valueStatic.getNonStaticField());
 
+        Change_Lesson_5_11.setStatic(10);
+        valueStatic.setNonStatic(105);
+        
+        System.out.println("Static value - " + Change_Lesson_5_11.getStatic());
+        System.out.println("Non-static value - " + valueStatic.getNonStaticField());
 
-
+        System.out.println("------------------");
 
 
 
@@ -82,3 +133,24 @@ public class Lesson_5 {
 
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
