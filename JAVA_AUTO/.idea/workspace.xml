@@ -2,22 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fef25b7-f582-479b-a879-fefa47f66a78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Helpers/CTO_Lesson_6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Helpers/Cleaner_Lesson_6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Helpers/Clerk_Lesson_6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Helpers/HR_Lesson_6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Helpers/IT_Lesson_6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Helpers/OfficeManager_Lesson_6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Helpers/Programmer_Lesson_6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Helpers/ProjectManager_Lesson_6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Helpers/Task_Lesson_6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Helpers/Worker_Lesson_6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson_6_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW/Lesson_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6_4/A_Lesson_6_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6_4/B_Lesson_6_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6_5/Figure_Lesson_6_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_6_5/Square_Lesson_6_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_7_1/Bird_Lesson_7_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_7_1/Duck_Lesson_7_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_7_1/Flyable_Lesson_7_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_7_2/Converter_Lesson_7_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_7_2/FahrenheitConverter_Lesson_7_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_7_2/KelvinConverter_Lesson_7_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_7_3/MyDevice_Lesson_7_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_7_3/State_Lesson_7_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_7_3/Volume_Lesson_7_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/HW/Lesson_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_AUTO/HW/Lesson_6.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HW/Lesson_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/Lesson_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Helpers/A_Lesson_6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/A_Lesson_6_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Helpers/B_Lesson_6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/B_Lesson_6_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Helpers/C_Lesson_6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/C_Lesson_6_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6_3/Cabriolet_Lesson_6_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_6_3/Cabriolet_Lesson_6_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6_3/Car_Lesson_6_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_6_3/Car_Lesson_6_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6_3/Vehicle_Lesson_6_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_6_3/Vehicle_Lesson_6_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +38,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -52,20 +58,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Task_Lesson_6_2">
-    <configuration name="Lesson_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW.Lesson_3" />
-      <module name="JAVA_AUTO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Helpers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lesson_7">
     <configuration name="Lesson_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW.Lesson_4" />
       <module name="JAVA_AUTO" />
@@ -105,6 +98,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lesson_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.Lesson_7" />
+      <module name="JAVA_AUTO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task_Lesson_6_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Helpers.Task_Lesson_6_2" />
       <module name="JAVA_AUTO" />
@@ -119,19 +125,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lesson_3" />
       <item itemvalue="Application.Lesson_4" />
       <item itemvalue="Application.Lesson_5" />
       <item itemvalue="Application.Lesson_6" />
       <item itemvalue="Application.Task_Lesson_6_2" />
+      <item itemvalue="Application.Lesson_7" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_Lesson_6_2" />
+        <item itemvalue="Application.Lesson_7" />
         <item itemvalue="Application.Lesson_6" />
+        <item itemvalue="Application.Task_Lesson_6_2" />
         <item itemvalue="Application.Lesson_5" />
         <item itemvalue="Application.Lesson_4" />
-        <item itemvalue="Application.Lesson_3" />
       </list>
     </recent_temporary>
   </component>
@@ -170,34 +176,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1589715019648" />
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1596276403951">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1596378752593">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1596276403951" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1596378752593" />
     <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591616761352">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1591616761352" />
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596364069039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1596364069039" />
     <state x="417" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1595342509270">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="417" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1595342509270" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1596278561068">
+    <state width="1493" height="244" key="GridCell.Tab.0.bottom" timestamp="1596389685419">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596278561068" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1596278561067">
+    <state width="1493" height="244" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596389685419" />
+    <state width="1493" height="244" key="GridCell.Tab.0.center" timestamp="1596389685419">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596278561067" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1596278561067">
+    <state width="1493" height="244" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596389685419" />
+    <state width="1493" height="244" key="GridCell.Tab.0.left" timestamp="1596389685419">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596278561067" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1596278561067">
+    <state width="1493" height="244" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596389685419" />
+    <state width="1493" height="244" key="GridCell.Tab.0.right" timestamp="1596389685419">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596278561067" />
+    <state width="1493" height="244" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596389685419" />
     <state width="1493" height="2" key="GridCell.Tab.1.bottom" timestamp="1595856645945">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -238,10 +248,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="809" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590688530069" />
-    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1595345166186">
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596342948231">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1595345166186" />
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1596342948231" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JAVA_AUTO$Lesson_1.ic" NAME="Lesson_1 Coverage Results" MODIFIED="1589718146570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
