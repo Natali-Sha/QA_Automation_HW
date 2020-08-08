@@ -2,14 +2,103 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fef25b7-f582-479b-a879-fefa47f66a78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/HW/Lesson_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW/Lesson_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_10_1/Lesson_10_1_readToSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_10_2/Lesson_10_2_countRepetitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_9/WriteToFile_Lesson_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/FirstPack_Lesson_5_1/FirstClass_Lesson_5_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/HW/Lesson_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_AUTO/HW/Lesson_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/HW/Lesson_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_AUTO/HW/Lesson_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/HW/Lesson_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_AUTO/HW/Lesson_7.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/HW/Lesson_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_AUTO/HW/Lesson_8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_8_1/MyException_Lesson_8_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_8_1/MyException_Lesson_8_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_8_1/Try_Lesson_8_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_8_1/Try_Lesson_8_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_8_2/Main_Lesson_8_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_8_2/Main_Lesson_8_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson_8_1/MyException_Lesson_8_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_8_1/MyException_Lesson_8_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson_8_1/Try_Lesson_8_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_8_1/Try_Lesson_8_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson_8_2/Main_Lesson_8_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_8_2/Main_Lesson_8_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Helpers/A_Lesson_6_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Helpers/B_Lesson_6_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Helpers/C_Lesson_6_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_6_3/Cabriolet_Lesson_6_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_6_3/Car_Lesson_6_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_6_3/Vehicle_Lesson_6_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_6_4/A_Lesson_6_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_6_4/B_Lesson_6_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_6_5/Figure_Lesson_6_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_6_5/Square_Lesson_6_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_7_1/Bird_Lesson_7_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_7_1/Duck_Lesson_7_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_7_1/Flyable_Lesson_7_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_7_2/Converter_Lesson_7_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_7_2/FahrenheitConverter_Lesson_7_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_7_2/KelvinConverter_Lesson_7_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_7_3/MyDevice_Lesson_7_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_7_3/State_Lesson_7_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_7_3/Volume_Lesson_7_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_8_1/MyException_Lesson_8_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_8_1/Try_Lesson_8_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_8_2/Main_Lesson_8_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_8_3/Main_Lesson_8_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_8_4/Fix_Lesson_8_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_8_5/ICanThrowException_Lesson_8_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_8_5/NullPointerException_Lesson_8_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_8_6/Number_Lesson_8_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Lesson_8_7/Lesson_8_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/PrivateAccess_Lesson_5_5/PrivateAccess_Lesson_5_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/Protected_Lesson_5_6/Protected_Lesson_5_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/PublicAccess_Lesson_5_4/PublicAccess2_Lesson_5_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/PublicAccess_Lesson_5_4/PublicAccess_Lesson_5_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/RemoteDevice_Lesson_7_4/Device_Lesson_7_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/RemoteDevice_Lesson_7_4/RemoteController_Lesson_7_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/RemoteDevice_Lesson_7_4/TVDevice_Lesson_7_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/RemoteDevice_Lesson_7_4/TV_Lesson_7_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/RemoteDevice_Lesson_7_4/Volume_Lesson_7_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/SecondPack_Lesson_5_1/FirstClass_Lesson_5_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/ThirdPack_Lesson_5_3/TestClass1_Lesson_5_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_AUTO/ThirdPack_Lesson_5_3/TestClass2_Lesson_5_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstPack_Lesson_5_1/FirstClass_Lesson_5_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/FirstPack_Lesson_5_1/FirstClass_Lesson_5_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/Lesson_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/Lesson_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/Lesson_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/Lesson_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/Lesson_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/Lesson_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/Lesson_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/Lesson_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Helpers/A_Lesson_6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_6_1/A_Lesson_6_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Helpers/B_Lesson_6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_6_1/B_Lesson_6_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Helpers/C_Lesson_6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_6_1/C_Lesson_6_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6_3/Cabriolet_Lesson_6_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_6_3/Cabriolet_Lesson_6_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6_3/Car_Lesson_6_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_6_3/Car_Lesson_6_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6_3/Vehicle_Lesson_6_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_6_3/Vehicle_Lesson_6_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6_4/A_Lesson_6_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_6_4/A_Lesson_6_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6_4/B_Lesson_6_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_6_4/B_Lesson_6_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6_5/Figure_Lesson_6_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_6_5/Figure_Lesson_6_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_6_5/Square_Lesson_6_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_6_5/Square_Lesson_6_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_7_1/Bird_Lesson_7_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_7_1/Bird_Lesson_7_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_7_1/Duck_Lesson_7_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_7_1/Duck_Lesson_7_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_7_1/Flyable_Lesson_7_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_7_1/Flyable_Lesson_7_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_7_2/Converter_Lesson_7_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_7_2/Converter_Lesson_7_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_7_2/FahrenheitConverter_Lesson_7_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_7_2/FahrenheitConverter_Lesson_7_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_7_2/KelvinConverter_Lesson_7_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_7_2/KelvinConverter_Lesson_7_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_7_3/MyDevice_Lesson_7_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_7_3/MyDevice_Lesson_7_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_7_3/State_Lesson_7_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_7_3/State_Lesson_7_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_7_3/Volume_Lesson_7_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_7_3/Volume_Lesson_7_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_8_1/MyException_Lesson_8_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_8_1/MyException_Lesson_8_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_8_1/Try_Lesson_8_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_8_1/Try_Lesson_8_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_8_2/Main_Lesson_8_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_8_2/Main_Lesson_8_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_8_3/Main_Lesson_8_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_8_3/Main_Lesson_8_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_8_4/Fix_Lesson_8_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_8_4/Fix_Lesson_8_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_8_5/ICanThrowException_Lesson_8_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_8_5/ICanThrowException_Lesson_8_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_8_5/NullPointerException_Lesson_8_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_8_5/NullPointerException_Lesson_8_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_8_6/Number_Lesson_8_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_8_6/Number_Lesson_8_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson_8_7/Lesson_8_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Lesson_8_7/Lesson_8_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrivateAccess_Lesson_5_5/PrivateAccess_Lesson_5_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/PrivateAccess_Lesson_5_5/PrivateAccess_Lesson_5_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Protected2_Lessson_5_6/Protected_Class_5_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Protected2_Lessson_5_6/Protected_Class_5_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Protected_Lesson_5_6/Protected_Lesson_5_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/Protected_Lesson_5_6/Protected_Lesson_5_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PublicAccess_Lesson_5_4/PublicAccess2_Lesson_5_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/PublicAccess_Lesson_5_4/PublicAccess2_Lesson_5_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PublicAccess_Lesson_5_4/PublicAccess_Lesson_5_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/PublicAccess_Lesson_5_4/PublicAccess_Lesson_5_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoteDevice_Lesson_7_4/Device_Lesson_7_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/RemoteDevice_Lesson_7_4/Device_Lesson_7_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoteDevice_Lesson_7_4/RemoteController_Lesson_7_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/RemoteDevice_Lesson_7_4/RemoteController_Lesson_7_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoteDevice_Lesson_7_4/TVDevice_Lesson_7_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/RemoteDevice_Lesson_7_4/TVDevice_Lesson_7_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoteDevice_Lesson_7_4/TV_Lesson_7_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/RemoteDevice_Lesson_7_4/TV_Lesson_7_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoteDevice_Lesson_7_4/Volume_Lesson_7_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/RemoteDevice_Lesson_7_4/Volume_Lesson_7_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SecondPack_Lesson_5_1/FirstClass_Lesson_5_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/SecondPack_Lesson_5_1/FirstClass_Lesson_5_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirdPack_Lesson_5_3/TestClass1_Lesson_5_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/ThirdPack_Lesson_5_3/TestClass1_Lesson_5_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirdPack_Lesson_5_3/TestClass2_Lesson_5_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helpers/Lessons/ThirdPack_Lesson_5_3/TestClass2_Lesson_5_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +134,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Lesson_8">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Helpers.Lessons.Lesson_6_1" />
+      <recent name="Helpers.Lessons" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Lesson_10">
     <configuration name="Fix_Lesson_8_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_8_4.Fix_Lesson_8_4" />
+      <option name="MAIN_CLASS_NAME" value="Helpers.Lessons.Lesson_8_4.Fix_Lesson_8_4" />
       <module name="JAVA_AUTO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_8_4.*" />
+          <option name="PATTERN" value="Helpers.Lessons.Lesson_8_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,8 +154,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW.Lesson_7" />
+    <configuration name="Lesson_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.Lesson_10" />
+      <module name="JAVA_AUTO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.Lesson_6" />
       <module name="JAVA_AUTO" />
       <extension name="coverage">
         <pattern>
@@ -85,25 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_Lesson_8_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_8_2.Main_Lesson_8_2" />
+    <configuration name="Lesson_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.Lesson_9" />
       <module name="JAVA_AUTO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_8_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_Lesson_8_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_8_3.Main_Lesson_8_3" />
-      <module name="JAVA_AUTO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson_8_3.*" />
+          <option name="PATTERN" value="HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,19 +207,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lesson_7" />
       <item itemvalue="Application.Lesson_8" />
-      <item itemvalue="Application.Main_Lesson_8_2" />
-      <item itemvalue="Application.Main_Lesson_8_3" />
       <item itemvalue="Application.Fix_Lesson_8_4" />
+      <item itemvalue="Application.Lesson_9" />
+      <item itemvalue="Application.Lesson_6" />
+      <item itemvalue="Application.Lesson_10" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson_10" />
+        <item itemvalue="Application.Lesson_6" />
+        <item itemvalue="Application.Lesson_9" />
         <item itemvalue="Application.Lesson_8" />
         <item itemvalue="Application.Fix_Lesson_8_4" />
-        <item itemvalue="Application.Main_Lesson_8_3" />
-        <item itemvalue="Application.Main_Lesson_8_2" />
-        <item itemvalue="Application.Lesson_7" />
       </list>
     </recent_temporary>
   </component>
@@ -167,34 +262,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1596378752593" />
+    <state x="499" y="188" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1596917539345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="188" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1596917539345" />
     <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591616761352">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1591616761352" />
-    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596400240299">
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596917540442">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1596400240299" />
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1596917540442" />
+    <state x="566" y="318" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1596917361091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="318" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1596917361091" />
     <state x="417" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1595342509270">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="417" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1595342509270" />
-    <state width="1493" height="292" key="GridCell.Tab.0.bottom" timestamp="1596642816352">
+    <state width="1493" height="615" key="GridCell.Tab.0.bottom" timestamp="1596924984987">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="292" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596642816352" />
-    <state width="1493" height="292" key="GridCell.Tab.0.center" timestamp="1596642816352">
+    <state width="1493" height="615" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596924984987" />
+    <state width="1493" height="615" key="GridCell.Tab.0.center" timestamp="1596924984987">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="292" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596642816352" />
-    <state width="1493" height="292" key="GridCell.Tab.0.left" timestamp="1596642816352">
+    <state width="1493" height="615" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596924984987" />
+    <state width="1493" height="615" key="GridCell.Tab.0.left" timestamp="1596924984987">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="292" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596642816352" />
-    <state width="1493" height="292" key="GridCell.Tab.0.right" timestamp="1596642816352">
+    <state width="1493" height="615" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596924984987" />
+    <state width="1493" height="615" key="GridCell.Tab.0.right" timestamp="1596924984987">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="292" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596642816352" />
+    <state width="1493" height="615" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596924984987" />
     <state width="1493" height="2" key="GridCell.Tab.1.bottom" timestamp="1595856645945">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -219,10 +322,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1589733184036" />
-    <state x="16" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1595515643643">
+    <state x="16" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1596830349882">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="16" y="215" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595515643643" />
+    <state x="16" y="215" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596830349882" />
     <state x="463" y="10" width="609" height="804" key="find.popup" timestamp="1591558717998">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

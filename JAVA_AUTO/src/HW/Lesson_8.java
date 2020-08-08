@@ -1,11 +1,11 @@
 package HW;
 
-import Lesson_8_1.Try_Lesson_8_1;
-import Lesson_8_1.MyException_Lesson_8_1;
-import Lesson_8_2.Main_Lesson_8_2;
-import Lesson_8_5.ICanThrowException_Lesson_8_5;
-import Lesson_8_6.Number_Lesson_8_6;
-import Lesson_8_7.Lesson_8_7;
+import Helpers.Lessons.Lesson_8_1.Try_Lesson_8_1;
+import Helpers.Lessons.Lesson_8_1.MyException_Lesson_8_1;
+import Helpers.Lessons.Lesson_8_2.Main_Lesson_8_2;
+import Helpers.Lessons.Lesson_8_5.ICanThrowException_Lesson_8_5;
+import Helpers.Lessons.Lesson_8_6.Number_Lesson_8_6;
+import Helpers.Lessons.Lesson_8_7.Lesson_8_7;
 
 import java.util.HashSet;
 import java.util.Set;

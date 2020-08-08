@@ -1,12 +1,10 @@
 package HW;
 import Helpers.*;
 
-import PrivateAccess_Lesson_5_5.PrivateAccess_Lesson_5_5;
-//import Protected2_Lessson_5_6.Protected_Class_5_6;
-import Protected_Lesson_5_6.Protected_Lesson_5_6;
-import PublicAccess_Lesson_5_4.PublicAccess_Lesson_5_4;
-import PublicAccess_Lesson_5_4.PublicAccess2_Lesson_5_4;
-import ThirdPack_Lesson_5_3.*;
+//import Helpers.Lessons.Protected2_Lessson_5_6.Protected_Class_5_6;
+import Helpers.Lessons.PublicAccess_Lesson_5_4.PublicAccess_Lesson_5_4;
+import Helpers.Lessons.PublicAccess_Lesson_5_4.PublicAccess2_Lesson_5_4;
+import Helpers.Lessons.ThirdPack_Lesson_5_3.*;
 
 
 
@@ -16,8 +14,8 @@ public class Lesson_5 {
 //        LESSON 5
 //        #1
 
-        FirstPack_Lesson_5_1.FirstClass_Lesson_5_1 test = new FirstPack_Lesson_5_1.FirstClass_Lesson_5_1(3);
-        SecondPack_Lesson_5_1.FirstClass_Lesson_5_1 otherTest = new SecondPack_Lesson_5_1.FirstClass_Lesson_5_1(3);
+        Helpers.Lessons.FirstPack_Lesson_5_1.FirstClass_Lesson_5_1 test = new Helpers.Lessons.FirstPack_Lesson_5_1.FirstClass_Lesson_5_1(3);
+        Helpers.Lessons.SecondPack_Lesson_5_1.FirstClass_Lesson_5_1 otherTest = new Helpers.Lessons.SecondPack_Lesson_5_1.FirstClass_Lesson_5_1(3);
 
         System.out.println("------------------");
 
@@ -53,10 +51,10 @@ public class Lesson_5 {
 //        Private access: The access level of a private modifier is only within the class. It cannot be accessed from outside the class.
 
 
-       // PrivateAccess_Lesson_5_5 pA = new PrivateAccess_Lesson_5_5(6,6); - //
+       // Helpers.Lessons.PrivateAccess_Lesson_5_5 pA = new Helpers.Lessons.PrivateAccess_Lesson_5_5(6,6); - //
 
 //        #6
-       // Protected_Lesson_5_6 prot = new Protected_Lesson_5_6("test");
+       // Helpers.Lessons.Protected_Lesson_5_6 prot = new Helpers.Lessons.Protected_Lesson_5_6("test");
      //   Protected_Class_5_6 prot2 = new Protected_Class_5_6("test2");
 
 //        #7

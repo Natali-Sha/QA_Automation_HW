@@ -1,9 +1,11 @@
 package HW;
-import Helpers.*;
-import Lesson_6_3.Cabriolet_Lesson_6_3;
-import Lesson_6_4.A_Lesson_6_4;
-import Lesson_6_4.B_Lesson_6_4;
-import Lesson_6_5.Square_Lesson_6_5;
+import Helpers.Lessons.Lesson_6_1.A_Lesson_6_1;
+import Helpers.Lessons.Lesson_6_1.B_Lesson_6_1;
+import Helpers.Lessons.Lesson_6_1.C_Lesson_6_1;
+import Helpers.Lessons.Lesson_6_3.Cabriolet_Lesson_6_3;
+import Helpers.Lessons.Lesson_6_4.A_Lesson_6_4;
+import Helpers.Lessons.Lesson_6_4.B_Lesson_6_4;
+import Helpers.Lessons.Lesson_6_5.Square_Lesson_6_5;
 
 
 public class Lesson_6 {
