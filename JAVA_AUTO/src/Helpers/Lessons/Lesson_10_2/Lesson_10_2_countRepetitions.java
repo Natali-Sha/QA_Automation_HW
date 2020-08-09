@@ -35,8 +35,8 @@ public class Lesson_10_2_countRepetitions {
         }
 
         for (Map.Entry<String,Integer> entry : allWords.entrySet()){
-            System.out.println("Key = " + entry.getKey() +
-                    ", Value = " + entry.getValue());
+            System.out.println("'" + entry.getKey() +
+                    "'"+ ": " + entry.getValue() +" times");
 
         }System.out.println(allWords.size());
 
