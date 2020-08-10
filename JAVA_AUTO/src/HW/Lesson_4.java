@@ -64,14 +64,14 @@ public class Lesson_4 {
          "Print all results to the console.");
 
 
-//        Calculator_Lesson_4_4 calc = new Calculator_Lesson_4_4();
-//
-//
-//        calc.getFirstValue();
-//        calc.getSecondValue();
-//        calc.getOperation();
-//
-//        System.out.println("------------------");
+        Calculator_Lesson_4_4 calc = new Calculator_Lesson_4_4();
+
+
+        calc.getFirstValue();
+        calc.getSecondValue();
+        calc.getOperation();
+
+        System.out.println("------------------");
 
 //        #5
 

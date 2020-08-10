@@ -58,6 +58,14 @@ public class Lesson_5 {
      //   Protected_Class_5_6 prot2 = new Protected_Class_5_6("test2");
 
 //        #7
+//        package-private (often just called package) means that other members of the same package have access to the item.
+//        package-private is the default access modifier and does not have a keyword, because package is used to specify the package for a class or interface.
+//        To declare package access for something, use no access modifier.
+
+//        protected indicates that only descendants of the class can access the item.
+//        Classes can be protected, but protected classes generally appear only within other classes (an idiom called an inner class).
+//        Similarly, interfaces can be protected (provided they are within a class), but it’s rare (I’ve never seen one).
+//        protected is most often used on fields and methods within classes.
 
 
 
